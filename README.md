@@ -1,2 +1,2 @@
 # dc_status
-Discord rich persence in fivem
+Discord rich persence for fivem
